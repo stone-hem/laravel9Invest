@@ -14,49 +14,19 @@ class GoogleController extends Controller
     {
         return Socialite::driver('google')->redirect();
     }
-    public function userValidate(Request $request)
+    public function findOrCreateUser(Request $request,$googleid)
     {
-        $google_id=Socialite::driver('google')->user();
-        $user = User::where('google_id', $google_id->id)->first();
- 
-        if ($user) {
-            $user->update([
-                'name' => $request->name,
-            ]);
-            config(['auth.guards.api.provider' => 'user']);// configure to user scope
-            $token = $user->createToken(time(),['user'])->accessToken;//create access token using password,and update scope
-           return response()->json(['user'=>$user,'token' => $token], 200);//return user login details
-           Auth::login($user);
-
+        $usercreate=User::where('google_id',$googleid)->first();
+        if ($usercreate) {
+            return User::where($usercreate);
         }
         else{
-        $validator = Validator::make($request->all(), [
-            'name' => 'required|string|min:2|max:100',
-            'email' => 'required|string|email|max:100|unique:users',
-            'google_id' =>'required',
-            'password' => 'required|string|min:6',
-            'token'=>'required'
-        ]);
+            // if (User::where('email',$email)->first();) {
+            //     $id=$newuser->id;
+            //     Auth::loginUsingId($id);
+            // }
+           
 
-        if($validator->fails()) {
-            return response()->json($validator->errors(), 400);
         }
-   
-
-    
-
-        $user = User::create([
-                'name' => $request->name,
-                'email' => $request->email,
-                'google_id' =>$request->google_id,
-                'password' =>$request->password
-        ]);
-        config(['auth.guards.api.provider' => 'user']);// configure to user scope
-        $token = $user->createToken(time(),['user'])->accessToken;//create access token using password,and update scope
-       return response()->json(['user'=>$user,'token' => $token,'message' => 'User successfully validated',], 200);//return user login details
-       Auth::login($user);
-        Auth::login($user);
-    }
-        
     }
 }

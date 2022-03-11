@@ -7564,3 +7564,323 @@ Stack trace:
 #9 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
 #10 {main}
 "} 
+[2022-03-11 06:29:23] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:29:23] laravel.ERROR: syntax error, unexpected namespaced name "App\Providers\AppServiceProvider", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected namespaced name \"App\\Providers\\AppServiceProvider\", expecting \"]\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:177)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2022-03-11 06:29:23] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:29:23] laravel.ERROR: syntax error, unexpected namespaced name "App\Providers\AppServiceProvider", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected namespaced name \"App\\Providers\\AppServiceProvider\", expecting \"]\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:177)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2022-03-11 06:29:29] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:29:29] laravel.ERROR: syntax error, unexpected token ";", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \";\", expecting \"]\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:168)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2022-03-11 06:29:50] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:29:50] laravel.ERROR: syntax error, unexpected token ";", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \";\", expecting \"]\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:168)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2022-03-11 06:30:04] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:30:04] laravel.ERROR: syntax error, unexpected token ";", expecting "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \";\", expecting \"]\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:168)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2022-03-11 06:50:13] production.ERROR: syntax error, unexpected token "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \"]\" at /home/viruscoder/laravelprojects/laravel9Invest/config/services.php:34)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2022-03-11 06:50:23] production.ERROR: Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected {"exception":"[object] (ArgumentCountError(code: 0): Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Support/helpers.php:131)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/config/services.php(33): env()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require('...')
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:50:23] production.ERROR: Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected {"exception":"[object] (ArgumentCountError(code: 0): Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Support/helpers.php:131)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/config/services.php(33): env()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require('...')
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:50:59] production.ERROR: Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected {"exception":"[object] (ArgumentCountError(code: 0): Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Support/helpers.php:131)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/config/services.php(33): env()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require('...')
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:51:08] production.ERROR: Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected {"exception":"[object] (ArgumentCountError(code: 0): Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Support/helpers.php:131)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/config/services.php(33): env()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require('...')
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:51:14] production.ERROR: Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected {"exception":"[object] (ArgumentCountError(code: 0): Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Support/helpers.php:131)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/config/services.php(33): env()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require('...')
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:51:23] production.ERROR: Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected {"exception":"[object] (ArgumentCountError(code: 0): Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Support/helpers.php:131)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/config/services.php(33): env()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require('...')
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:51:23] production.ERROR: Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected {"exception":"[object] (ArgumentCountError(code: 0): Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Support/helpers.php:131)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/config/services.php(33): env()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require('...')
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 06:51:25] production.ERROR: Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected {"exception":"[object] (ArgumentCountError(code: 0): Too few arguments to function env(), 0 passed in /home/viruscoder/laravelprojects/laravel9Invest/config/services.php on line 33 and at least 1 expected at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Support/helpers.php:131)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/config/services.php(33): env()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require('...')
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 07:18:22] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 07:18:22] laravel.ERROR: syntax error, unexpected token "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \"]\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2022-03-11 07:18:23] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 07:18:23] laravel.ERROR: syntax error, unexpected token "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \"]\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2022-03-11 07:18:23] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 07:18:23] laravel.ERROR: syntax error, unexpected token "]" {"exception":"[object] (ParseError(code: 0): syntax error, unexpected token \"]\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2022-03-11 07:18:50] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 07:18:50] laravel.ERROR: Undefined constant "Laravel\Socialite" {"exception":"[object] (Error(code: 0): Undefined constant \"Laravel\\Socialite\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:199)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2022-03-11 07:19:07] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 07:19:07] laravel.ERROR: Undefined constant "Laravel\Socialite\Facades" {"exception":"[object] (Error(code: 0): Undefined constant \"Laravel\\Socialite\\Facades\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:199)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2022-03-11 07:19:14] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:200)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(125): Illuminate\\Log\\LogManager->resolve()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\\Log\\LogManager->get()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\\Log\\LogManager->driver()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(249): Illuminate\\Log\\LogManager->error()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(367): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#5 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#6 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2022-03-11 07:19:14] laravel.ERROR: Undefined constant "Laravel\Socialite\Facades\Socialite" {"exception":"[object] (Error(code: 0): Undefined constant \"Laravel\\Socialite\\Facades\\Socialite\" at /home/viruscoder/laravelprojects/laravel9Invest/config/app.php:199)
+[stacktrace]
+#0 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(72): require()
+#1 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#2 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#3 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith()
+#4 /home/viruscoder/laravelprojects/laravel9Invest/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#5 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
